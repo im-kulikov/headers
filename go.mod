@@ -1,6 +1,6 @@
 module github.com/im-kulikov/headers
 
-go 1.22
+go 1.22.0
 
 require github.com/stretchr/testify v1.9.0
 
